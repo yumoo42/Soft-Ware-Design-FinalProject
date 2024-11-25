@@ -1,5 +1,5 @@
 # Software-Design-Refactor
-112-1 SoftWare Design - Design Pattern Refactor final project
+112-1 Software Design - Design Pattern Refactor final project
 
 This task is to reconstruct the code. The original file source is: https://github.com/Grason-Lu/ct-bert
 
