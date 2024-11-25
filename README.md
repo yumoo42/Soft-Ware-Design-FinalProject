@@ -1,4 +1,4 @@
-# SoftWareDesign_FinalProject
+# Software-Design-FinalProject
 112-1 SoftWare Design - Desing Pattern Refactor final project
 
 This task is to reconstruct the code. The original file source is: https://github.com/Grason-Lu/ct-bert
